@@ -1,10 +1,11 @@
 # JuegoAhorcado
 Creacion del juego ahorcado para tarea de estructura de datos
 
-En este proyecto podremos jugar al famoso juego dle ahorcado pero en version Kpop.
+En este proyecto podremos jugar al famoso juego del ahorcado pero en version Kpop.
 Tendran que adivinar al artista que el sistema haya elegido para jugar, en este caso solo tenemos a 5 cantantes/artistas.
 
 Como ejecutar
+
 1.- Descarga el archivo
 
 2.- Abre tu terminal en la carpeta del proyecto
