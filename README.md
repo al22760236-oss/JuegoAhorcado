@@ -1,4 +1,4 @@
-# JuegoAhorcado
+# Juego del ahorcado
 Creacion del juego ahorcado para tarea de estructura de datos
 
 En este proyecto podremos jugar al famoso juego del ahorcado pero en version Kpop.
